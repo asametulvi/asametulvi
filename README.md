@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm *Abdussamet Ulvi*
 
 - 👨‍💻 I'm currently working for Sampa.
-- 💻 Full stack engineer, aim to be an exact backend engineer.
+- 💻 Full stack developer, aim to be an exact backend engineer.
 - 🤓 Learning algorithms and continuing to improve myself on web development and new technologies.
 - 📧 How to reach me: <a href="mailto:asametulvi@outlook.com">***asametulvi@outlook.com***</a> 
 
