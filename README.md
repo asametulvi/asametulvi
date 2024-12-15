@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm *Abdussamet Ulvi*
 
-- 💻 I'm currently a computer science & engineering bachelor student at Beykent University.
-- 🤓 I'm currently learning algorithms and continuing to improve myself on web development.
+- 💻 I'm currently working for Sampa.
+- 🤓 I'm learning algorithms and continuing to improve myself on web development and different programming languages.
 - 📧 How to reach me: <a href="mailto:asametulvi@outlook.com">***asametulvi@outlook.com***</a> 
 
 <p>
